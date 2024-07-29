@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nich-nichy
+- 👋 Hi, I’m **Nishath**
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs, Node,Js, ExpressJs, Django
 - 📫 How to reach me ...
