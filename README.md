@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Nishath**
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJs, Node,Js, ExpressJs, Django
+- 🌱 I’m currently learning ReactJs, Node,Js, ExpressJs, MongoDB
 - 📫 How to reach me ...
 
 <!---
