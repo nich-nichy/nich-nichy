@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Nishath** 
 
-Welcome to my profile! I'm passionate about web development and always eager to learn and grow.
+Welcome to my profile! I'm passionate about web development and always eager to learn.
 
 ## 🚀 About Me
 - **👀 Interests:** 
