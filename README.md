@@ -16,6 +16,8 @@ Welcome to my profile! I'm passionate about web development and always eager to 
   - NextJS
   - React Native
   - AI
+  - Python & Java
+  - DSA
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohamed-nishath-m-049516191/)
