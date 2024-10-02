@@ -24,9 +24,9 @@ Welcome to my profile! I'm passionate about web development and always eager to 
 
 ## 💻 Projects
 Check out some of my projects:
-- [Project 1](https://github.com/nich-nichy/Amazonclone-react-firebase)
-- [Project 2](https://github.com/nich-nichy/Crypto-merchendise)
-- [Project 3](https://github.com/nich-nichy/cgpaCalculator-reactNative)
+- [An ecommerce clone](https://github.com/nich-nichy/Amazonclone-react-firebase)
+- [An web 3 based NFT seller](https://github.com/nich-nichy/Crypto-merchendise)
+- [An online renting system](https://github.com/nich-nichy/FSD61WD-T-VehicleRentalSystem-Frontend)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nich-nichy&show_icons=true&theme=radical)
