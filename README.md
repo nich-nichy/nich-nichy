@@ -34,7 +34,7 @@ Check out some of my projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nich-nichy&show_icons=true&theme=radical)
 
 ## 🌐 Find Me Online
-- [Portfolio](https://my-portfolio-lovat-alpha.vercel.app)
+- [Portfolio](https://3d-portfolio-lime-sigma.vercel.app/)
 
 Thanks for visiting! 😊
 
