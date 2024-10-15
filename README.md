@@ -18,12 +18,15 @@ Welcome to my profile! I'm passionate about web development and always eager to 
   - AI
   - Python & Java
   - DSA
-  - Rust and Go
+  - Go
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohamed-nishath-m-049516191/)
 - [Email](mailto:nishathmohamed01@gmail.com) or 
 - [Email](mailto:nishathmohamed786@gmail.com)
+
+## 🌐 Portfolio
+- [Portfolio](https://3d-portfolio-lime-sigma.vercel.app/)
 
 ## 💻 Projects
 Check out some of my projects:
@@ -34,11 +37,7 @@ Check out some of my projects:
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nich-nichy&show_icons=true&theme=radical)
 
-## 🌐 Find Me Online
-- [Portfolio](https://3d-portfolio-lime-sigma.vercel.app/)
-
 Thanks for visiting! 😊
-
 
 
 <!---
