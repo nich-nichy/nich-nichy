@@ -26,7 +26,7 @@ Welcome to my profile! I'm passionate about web development and always eager to 
 - [Email](mailto:nishathmohamed786@gmail.com)
 
 ## 🌐 Portfolio
-- [Portfolio](https://3d-portfolio-lime-sigma.vercel.app/)
+- [Portfolio](https://nishaths-portfolio.netlify.app)
 
 ## 💻 Projects
 Check out some of my projects:
