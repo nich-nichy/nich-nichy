@@ -30,6 +30,7 @@ Welcome to my profile! I'm passionate about web development and always eager to 
 
 ## 💻 Projects
 Check out some of my projects:
+- [Automation Platform](https://github.com/nich-nichy/nizzie-dev)
 - [An ecommerce clone](https://github.com/nich-nichy/Amazonclone-react-firebase)
 - [An web 3 based NFT seller](https://github.com/nich-nichy/Crypto-merchendise)
 - [An online renting system](https://github.com/nich-nichy/FSD61WD-T-VehicleRentalSystem-Frontend)
