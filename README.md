@@ -7,17 +7,17 @@ Welcome to my profile! I'm passionate about web development and always eager to 
   - Web Development
   - Frontend and Backend Technologies
   - AI based website and mobile app's
-
-- **🌱 Currently Learning:**
+ 
+- **🌱 Skills:**
   - ReactJS
   - NodeJS
   - ExpressJS
   - MongoDB
+
+- **🌱 Currently Learning:**
   - NextJS
-  - React Native
   - AI
-  - Python & Java
-  - DSA
+  - Python
   - Go
 
 ## 📫 Get in Touch
