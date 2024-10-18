@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about web development and always eager to 
   - Frontend and Backend Technologies
   - AI based website and mobile app's
  
-- **🌱 Skills:**
+- **🎄 Skills:**
   - ReactJS
   - NodeJS
   - ExpressJS
