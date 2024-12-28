@@ -5,8 +5,6 @@ A developer driven by the desire to learn and build new.
 ## 🚀 About Me
 - **👀 Interests:** 
   - Web Development
-  - Frontend and Backend Technologies
-  - AI based website and mobile app's
  
 - **🎄 Skills:**
   - ReactJS
@@ -20,6 +18,7 @@ A developer driven by the desire to learn and build new.
   - Python
   - PostgreSQL
   - AI and AI Integration
+  - Go
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohamed-nishath-m-049516191/)
