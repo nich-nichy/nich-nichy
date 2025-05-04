@@ -13,13 +13,8 @@ A developer driven by the desire to learn and build new.
   - MongoDB
 
 - **🌱 Currently Learning:**
-  - NextJS
-  - Typescript
-  - Python
-  - PostgreSQL
-  - AI and AI Integration
-  - Go
-  - Docker and Kubernetes
+  - Gen AI
+  - FSD
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohamed-nishath-m-049516191/)
